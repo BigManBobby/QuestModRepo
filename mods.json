@@ -1,9 +1,9 @@
 {
     "1.17.1": [
         {
-            "name": "Thicc Saber",
+            "name": "Thin Saber",
             "description": "A simple mod which allows you to control the dimensions of notes!",
-            "id": "ThiccSaber",
+            "id": "ThinSaber",
             "version": "1.0.0",
             "downloadLink": "https://github.com/BobbyShmurner/ThiccSaber/releases/download/v1.0.0/ThiccSaber_v1.0.0.qmod",
             "cover": "https://github.com/BobbyShmurner/QuestModRepo/raw/refs/heads/ThiccSaber/cover.png",
