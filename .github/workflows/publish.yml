@@ -20,3 +20,4 @@ jobs:
         qmod-url: 'https://github.com/BobbyShmurner/ThiccSaber/releases/download/v1.0.0/ThiccSaber_v1.0.0.qmod'
         mod-json: 'mod.json'
         token: '${{ secrets.GITHUB_TOKEN }}'
+        repo-token: '${{ secrets.REPO_ACCESS }}'
