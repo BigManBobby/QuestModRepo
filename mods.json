@@ -11,6 +11,18 @@
                 "name": "Bobby Shmurner",
                 "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
             }
+        },
+        {
+            "name": "Thin Saber",
+            "description": "A simple mod which allows you to control the dimensions of notes!",
+            "id": "ThinSaber",
+            "version": "1.0.0",
+            "downloadLink": "https://github.com/BobbyShmurner/ThiccSaber/releases/download/v1.0.0/ThiccSaber_v1.0.0.qmod",
+            "cover": "https://github.com/BobbyShmurner/QuestModRepo/raw/refs/heads/master/cover.png",
+            "author": {
+                "name": "Bobby Shmurner",
+                "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
+            }
         }
     ]
 }
