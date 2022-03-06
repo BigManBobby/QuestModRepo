@@ -17,8 +17,8 @@
             "description": "A simple mod which allows you to control the dimensions of notes!",
             "id": "ThiccSaber",
             "version": "1.0.0",
-            "downloadLink": "https://github.com/BobbyShmurner/ThiccSaber/releases/download/${GITHUB_REF#refs/tags/}/Thicc_Saber-v2.0.6.qmod",
-            "cover": "https://github.com/BobbyShmurner/ThiccSaber/raw/refs/tags/v2.0.6/cover.png",
+            "downloadLink": "https://github.com/BobbyShmurner/ThiccSaber/releases/download/${GITHUB_REF#refs/tags/}/Thicc_Saber-v2.0.7.qmod",
+            "cover": "https://github.com/BobbyShmurner/ThiccSaber/raw/refs/tags/v2.0.7/cover.png",
             "author": {
                 "name": "Bobby Shmurner",
                 "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
