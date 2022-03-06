@@ -1,1 +1,16 @@
-{}
+{
+    "1.17.1": [
+        {
+            "name": "Hot-Swappable Mods",
+            "description": "Allows you to easily reload mods from in game",
+            "id": "HotSwappableMods",
+            "version": "5.1.2",
+            "downloadLink": "https://github.com/BobbyShmurner/HotSwappableMods/releases/download/v5.1.2/Hot-Swappable_Mods-v5.1.2.qmod",
+            "cover": "https://github.com/BobbyShmurner/HotSwappableMods/raw/refs/tags/v5.1.2/cover.png",
+            "author": {
+                "name": "Bobby Shmurner",
+                "icon": "https://avatars.githubusercontent.com/u/34596112?v=4"
+            }
+        }
+    ]
+}
